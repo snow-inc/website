@@ -1,6 +1,4 @@
-# George — developer portfolio
-
-An original editorial portfolio inspired by the layout and motion principles of [ainsley.dev](https://ainsley.dev/). Built with **Nuxt 4, Vue 3, TypeScript, Tailwind CSS 4, and Nuxt UI 4**.
+# nyabwana.dev website
 
 ## Develop
 
