@@ -1,4 +1,4 @@
-# Agent instructions — George’s portfolio
+# Agent instructions — nyabwana.dev website
 
 These instructions apply throughout this repository. Follow the user’s current request when it changes the direction described here. Improve the site within the requested scope; routine implementation decisions do not require a separate approval step.
 
